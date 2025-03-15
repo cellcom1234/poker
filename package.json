@@ -2,7 +2,7 @@
   "name": "poker-web-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cellcom1234.github.io/poker-web-app/",
+  "homepage": "https://cellcom1234.github.io/poker",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
